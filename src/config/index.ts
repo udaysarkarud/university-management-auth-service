@@ -1,12 +1,6 @@
-import dotenv from "dotenv";
-import path from "path";
-dotenv.config({ path: path.join(process.cwd(), ".env") });
-
-interface Config {
-  NODE_ENV: string;
-  PORT: number;
-  MONGO_URI: string;
-}
+import dotenv from 'dotenv';
+import path from 'path';
+dotenv.config({ path: path.join(process.cwd(), '.env') });
 
 export default {
   port: process.env.PORT,
