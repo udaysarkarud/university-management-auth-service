@@ -17,5 +17,3 @@ type UserModel = Model<IUser, object>;
 const User = model<IUser, UserModel>('User', userSchema);
 
 export default User;
-
-/* 11-8 */
