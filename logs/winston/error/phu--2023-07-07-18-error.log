@@ -1,0 +1,2 @@
+2023-07-07T12:44:29.895Z [umauth] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Fri Jul 07 2023 | 18:47 [umauth] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/udaysarkarud/war/pheroLevel2/university-management-auth-service/logs/winston/successes/.7d3223a661e9412f173e9fc85ea595bba0549f35-audit.json",
+    "files": [
+        {
+            "date": 1688733057868,
+            "name": "/home/udaysarkarud/war/pheroLevel2/university-management-auth-service/logs/winston/successes/phu--2023-07-07-18-success.log",
+            "hash": "81ee353af4aa16acea1d8a2b8be1a1c9707bc842424f7454321f6c3d65793d00"
+        }
+    ],
+    "hashType": "sha256"
+}
