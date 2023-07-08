@@ -56,5 +56,3 @@ export default {
   loggerInfo,
   loggerError,
 };
-
-/* 12-7 */
